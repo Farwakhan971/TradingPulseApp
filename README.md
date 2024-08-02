@@ -3,6 +3,14 @@
 
 https://github.com/Farwakhan971/TradingPulseApp/assets/130717631/65ec6bb8-d728-4464-95c7-d6c5b4d5b38d
 
+## Download the APKs
+
+You can download the APK files from the following links:
+
+- **User Part APK:** [Download User APK]()
+- **Admin Part APK:** [Download Admin APK](https://drive.google.com/drive/folders/1O8z8m3XZZKhNPhgF0zrGwAdy8_tNjkAi?usp=sharing)
+
+
 ## 🚀 Features
 
 ### 🔐 Admin Features:
